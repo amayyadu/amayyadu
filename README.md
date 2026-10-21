@@ -1,6 +1,6 @@
 <!-- Replace every YOUR_USERNAME, YOUR_NAME and placeholder text before committing -->
 
-<h1 align="center">Hello! 👋, I'm Amay</h1>
+<h1 align="center">HOWDYY! 👋, Amay</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=AI+%2F+ML+Enthusiast;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Turning+data+into+intelligent+solutions;Always+learning%2C+always+building" alt="Typing SVG" />
